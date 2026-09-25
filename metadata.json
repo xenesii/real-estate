@@ -1,0 +1,6 @@
+{
+  "name": "PRONAT",
+  "description": "Platformë profesionale e patundshmërive për Kosovë dhe Shqipëri | Professional real estate marketplace for Kosovo and Albania.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
